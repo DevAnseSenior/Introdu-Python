@@ -7,5 +7,11 @@ print("Meu peso:"+str(peso))
 
 if peso >= 100:
     print("obeso")
+
 else:
-    print("normal")
+    print("nome bonito da peste!!!")
+
+if nome != "darlan":
+    print("nome de trouxa")
+else:
+    print("nome bonito da peste!")
